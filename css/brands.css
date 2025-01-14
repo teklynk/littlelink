@@ -372,6 +372,13 @@
 	--button-background:#00AEEF;
 }
 
+/* Owncast */
+.button-owncast {
+    --button-text: #FFFFFF;
+    --button-background: #000000;
+    --button-border: 1px solid #FFFFFF;
+}
+
 /* Patreon */
 .button-patreon {
 	--button-text:#ffffff;
